@@ -1,0 +1,80 @@
+{
+  "contacts": [
+    {
+      "id": "D4D23343",
+      "name": "Priyanshu",
+      "company": "Student",
+      "email": "Priyanshu@123",
+      "title": "Topper",
+      "mobile": "9483030383",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3Fbmz98uGL5zx0dPHLVFmOaBRO46-YJo33kmAtW7zNHoj30XFGi2J0zKzqVWXTDlj8Bc&usqp=CAU",
+      "groupId": "3"
+    },
+    {
+      "id": "I4E55343",
+      "name": "Tami",
+      "company": "YouTube",
+      "email": "Tamisha@123",
+      "title": "Youtuber",
+      "mobile": "8880009991",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb9JsqxOgGFNVVKBMVmeCoU-G1W-rWUcb057f6NERgAYHHaJ8BknDGWXNyScS6v969bq0&usqp=CAU",
+      "groupId": "1"
+    },
+    {
+      "id": "H4D23365",
+      "name": "Angel",
+      "company": "Student",
+      "email": "Angelu@123",
+      "title": "Ranker",
+      "mobile": "9898930383",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsIsIKGP2zeO1K4eTNYtEc9tOLDF99xfihwScH4U9WVcrBgRqYM2PRDWeN8bWjxap2cC4&usqp=CAU",
+      "groupId": "2"
+    },
+    {
+      "id": "E4D23343",
+      "name": "Pituyysh",
+      "company": "Custom",
+      "email": "hunny@123",
+      "title": "Custom",
+      "mobile": "8783030383",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJDu73-ZRBSLGNrbVURcRjHQIL18Vuu3WXdQ&usqp=CAU",
+      "groupId": "4"
+    },
+    {
+      "name": "Priyanka",
+      "photo": "https://cdn-icons-png.flaticon.com/512/206/206881.png",
+      "mobile": "5356646565",
+      "email": "moti@123",
+      "company": "Hays",
+      "title": "KamChoor",
+      "group": "3",
+      "id": "0itcHyv"
+    }
+  ],
+  "groups": [
+    {
+      "id": 1,
+      "name": "colleague"
+    },
+    {
+      "id": 2,
+      "name": "Friend"
+    },
+    {
+      "id": 3,
+      "name": "Family"
+    },
+    {
+      "id": 4,
+      "name": "Service"
+    },
+    {
+      "id": 5,
+      "name": "Community"
+    },
+    {
+      "id": 6,
+      "name": "Social"
+    }
+  ]
+}
